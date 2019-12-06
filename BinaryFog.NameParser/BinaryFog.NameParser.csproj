@@ -55,7 +55,7 @@ More patterns for two initial patterns added</PackageReleaseNotes>
 		<PackageReference Include="System.Collections" Version="4.3.0">
       <PrivateAssets>All</PrivateAssets>
     </PackageReference>
-		<PackageReference Include="System.Collections.Immutable" Version="1.4.0">
+		<PackageReference Include="System.Collections.Immutable" Version="1.6.0-preview9.19421.4">
       <PrivateAssets>All</PrivateAssets>
     </PackageReference>
 		<PackageReference Include="System.Diagnostics.Debug" Version="4.3.0">
@@ -73,10 +73,10 @@ More patterns for two initial patterns added</PackageReleaseNotes>
 		<PackageReference Include="System.Linq" Version="4.3.0">
       <PrivateAssets>All</PrivateAssets>
     </PackageReference>
-		<PackageReference Include="System.Runtime" Version="4.3.0">
+		<PackageReference Include="System.Runtime" Version="4.3.1">
       <PrivateAssets>All</PrivateAssets>
     </PackageReference>
-		<PackageReference Include="System.Runtime.Extensions" Version="4.3.0">
+		<PackageReference Include="System.Runtime.Extensions" Version="4.3.1">
       <PrivateAssets>All</PrivateAssets>
     </PackageReference>
 		<PackageReference Include="System.Runtime.Loader" Version="4.3.0">
